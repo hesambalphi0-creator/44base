@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="کمپرسور Secop">
+  <defs>
+    <linearGradient id="sec" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a5158" /><stop offset="1" stop-color="#171b21" />
+    </linearGradient>
+  </defs>
+  <ellipse cx="100" cy="180" rx="58" ry="8" fill="#0b1a2b" opacity=".10" />
+  <rect x="48" y="92" width="104" height="82" rx="20" fill="url(#sec)" />
+  <path d="M60 92c0-20 18-36 40-36s40 16 40 36z" fill="#2c323a" />
+  <rect x="126" y="52" width="16" height="26" rx="5" fill="#9aa3ac" />
+  <circle cx="134" cy="49" r="8.5" fill="#767f88" />
+  <rect x="58" y="116" width="52" height="32" rx="5" fill="#eef3f8" />
+  <text x="84" y="131" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#123a63" text-anchor="middle">SECOP</text>
+  <text x="84" y="143" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#607187" text-anchor="middle">SC18G</text>
+  <rect x="118" y="116" width="24" height="32" rx="4" fill="#087fd8" />
+</svg>

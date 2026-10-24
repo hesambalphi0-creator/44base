@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="کلید فشار Danfoss">
+  <defs>
+    <linearGradient id="kp" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e7ecf1" /><stop offset="1" stop-color="#c3ccd5" />
+    </linearGradient>
+  </defs>
+  <ellipse cx="100" cy="180" rx="52" ry="8" fill="#0b1a2b" opacity=".10" />
+  <rect x="52" y="62" width="96" height="76" rx="10" fill="url(#kp)" stroke="#a9b4bf" />
+  <rect x="52" y="62" width="96" height="18" rx="8" fill="#0a2850" />
+  <text x="100" y="76" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff" text-anchor="middle">DANFOSS</text>
+  <circle cx="100" cy="112" r="20" fill="#f5f8fb" stroke="#9aa5b1" stroke-width="2" />
+  <path d="M100 112l12-9" stroke="#087fd8" stroke-width="3" stroke-linecap="round" />
+  <rect x="60" y="138" width="80" height="12" rx="4" fill="#9aa5b1" />
+  <rect x="90" y="150" width="20" height="18" rx="4" fill="#b58b3a" />
+  <text x="100" y="176" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#607187" text-anchor="middle">KP SERIES</text>
+</svg>

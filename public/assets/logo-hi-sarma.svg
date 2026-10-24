@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="نشان های سرما">
+  <defs>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16C5F4" />
+      <stop offset="1" stop-color="#087FD8" />
+    </linearGradient>
+    <linearGradient id="disc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0A2850" />
+      <stop offset="1" stop-color="#06172B" />
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="56" fill="url(#disc)" stroke="url(#ring)" stroke-width="4" />
+  <g stroke="#EAF6FF" stroke-width="3.4" stroke-linecap="round">
+    <path d="M60 26v68" />
+    <path d="M31 43l58 34" />
+    <path d="M89 43L31 77" />
+  </g>
+  <circle cx="60" cy="60" r="7" fill="#16C5F4" />
+  <g stroke="#EAF6FF" stroke-width="3" stroke-linecap="round">
+    <path d="M60 26l-7 9M60 26l7 9" />
+    <path d="M60 94l-7-9M60 94l7-9" />
+    <path d="M31 43l11 1M31 43l-1 11" />
+    <path d="M89 77l-11-1M89 77l1-11" />
+    <path d="M89 43l-11 1M89 43l1 11" />
+    <path d="M31 77l11-1M31 77l-1-11" />
+  </g>
+</svg>
